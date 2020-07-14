@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 change1
 change2
 test1 is ready
+Creating a new branch is quick.
